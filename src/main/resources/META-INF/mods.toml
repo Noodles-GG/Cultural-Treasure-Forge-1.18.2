@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="cultural_treasures_paintings"
+version="1.0.0"
+displayName="文化瑰宝.画作"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.mcmod.cn/class/6540.html"
+authors="Noodles_GG"
+
+[[dependencies.cultural_treasures_paintings]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

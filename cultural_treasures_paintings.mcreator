@@ -1,0 +1,128 @@
+{
+  "mod_elements": [
+    {
+      "name": "AlongtheRiverDuringtheQingmingFestival",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alongthe_river_duringthe_qingming_festival"
+    },
+    {
+      "name": "RiverMedium",
+      "type": "painting",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "river_medium"
+    },
+    {
+      "name": "RiverSmall",
+      "type": "painting",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "river_small"
+    },
+    {
+      "name": "TheOdeoftheRiverGoddess",
+      "type": "painting",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_odeofthe_river_goddess"
+    },
+    {
+      "name": "RiverGodnessMedium",
+      "type": "painting",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "river_godness_medium"
+    },
+    {
+      "name": "RiverGodnessSmall",
+      "type": "painting",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "river_godness_small"
+    },
+    {
+      "name": "BuNianTu",
+      "type": "painting",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bu_nian_tu"
+    },
+    {
+      "name": "BuNianMedium",
+      "type": "painting",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bu_nian_medium"
+    },
+    {
+      "name": "BuNianSmall",
+      "type": "painting",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bu_nian_small"
+    },
+    {
+      "name": "JiangShanTu",
+      "type": "painting",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jiang_shan_tu"
+    },
+    {
+      "name": "JiangShanMedium",
+      "type": "painting",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jiang_shan_medium"
+    },
+    {
+      "name": "JiangShanSmall",
+      "type": "painting",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jiang_shan_small"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cultural_treasures_paintings",
+    "modName": "文化瑰宝.画作",
+    "version": "1.0.0",
+    "author": "Noodles_GG",
+    "websiteURL": "https://www.mcmod.cn/class/6540.html",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.gioielloculturale",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
